@@ -1,1 +1,2 @@
 # go_goroutine_test
+goroutineによる実行速度のテスト
