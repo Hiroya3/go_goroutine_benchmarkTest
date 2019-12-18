@@ -1,18 +1,18 @@
 package main
 
-import "fmt"
-
 func sumNumbers() {
 	result := 0
 	for i := 0; i < 100; i++ {
 		result += i
 	}
-	fmt.Println(result)
+	//出力を乱さないためにコメントアウト
+	//fmt.Println(result)
 }
 
 func printNumbers() {
 	for i := 0; i < 100; i++ {
-		fmt.Print(i)
+		//出力を乱さないためにコメントアウト
+		//fmt.Print(i)
 	}
 }
 
