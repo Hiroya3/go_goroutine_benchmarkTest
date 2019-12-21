@@ -1,2 +1,8 @@
 # go_goroutine_test
-goroutineによる実行速度のテスト
+goroutineによるパフォーマンステスト
+
+## 実行コマンド
+
+```
+$ go test -run x -bench .
+```
